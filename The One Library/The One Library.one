@@ -1,0 +1,2263 @@
+-
+	The One Library
+-
+	-
+		Philosophy
+	-
+		-
+			The One Library is a public service project which serves to archive and curate various
+			resources in the public domain, which range from major historical texts to open source
+			digital assets.
+		-
+	-
+		Principles
+	-
+		-
+			Conventions
+		-
+			-
+				Contents
+			-
+				-
+					The Philosophy Section
+				-
+					-
+						The Philosophy section of the One Library contains all of the Library's
+						plain text written documents, including its archived texts and references
+						for them.
+					-
+				-
+					The Wonders Section
+				-
+					-
+						The Wonders section of the One Library contains all of the Library's assets
+						that are not plain text documents.
+						
+						In addition to its digital asset archive, it also contains links to various
+						external archives, references to external assets, commentary on the
+						contents of the Philosophy section.
+					-
+			-
+				Format
+			-
+				-
+					All of the written documents in the library have been mapped to the ONE and
+					ONE+ text formats, which is where the One Library gets its name from.
+					
+					ONE uses minus signs and tab indentation to separate text into a hierarchy of
+					"blocks" without relying on any escape characters.
+					
+					ONE+ is a superset of ONE which provides more ways to encode text blocks, and
+					is thus easier to write manually.
+					
+					This format allows the documents to be easily read as plain text, to clearly
+					convey the structure of their content, and to be easily scraped by computer
+					programs.
+					
+					The documents in the library will generally follow a convention where a
+					"Philosophy" section is used to state the overall purpose of the document, and
+					a "Principles" section in used to contain the main content of the document.
+					
+					The text of said documents will generally be wrapped at one hundred characters,
+					assuming the width of each tab is four characters.
+				-
+			-
+				Spliced Content
+			-
+				-
+					Many of the documents in the library were originally written in languages other
+					than English.
+					
+					As such, the library will generally use the most universally respected English
+					translations of them.
+					
+					If there is no clear standard for an English translation of a given text, the
+					library may use a custom amalgamation of various translations.
+					
+					Occasionally, it may use one standard for the text itself and a different
+					standard for the layout of the text.
+				-
+			-
+				Motto
+			-
+				-
+					The motto of the One Library is "Love of Wisdom".
+				-
+			-
+				Disclaimer
+			-
+				-
+					Some of the texts contained within the library contain sensitive and
+					controversial content that may understandably offend some people.
+					
+					The One Library does not condone any form of discrimination, hatred, violence,
+					or supremacy.
+					
+					However the One Library does hold that even the most sinister of texts must be
+					preserved so that we may learn from them and from their impact on history. To
+					destroy or censor them would be akin to book burning, and, as it is commonly
+					said, where books are burned, people will also be burned in the end.
+				-
+		-
+			Catalogue
+		-
+			-
+				Assets
+			-
+				-
+					The Torah
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Common, The Tanakh, The Torah
+						-
+				-
+					The Prophets and the Writings
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Common, The Tanakh, The Prophets and the Writings
+						-
+				-
+					The Deuterocanonical Apocrypha
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, common, Apocrypha, Deuterocanon
+						-
+				-
+					The Mishnah
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Jewish, The Mishnah
+						-
+				-
+					The Babylonian Talmud
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Jewish, The Mishnah, The Talmud, Babylonian,
+							The Babylonian Talmud
+						-
+				-
+					The Jerusalem Talmud
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Jewish, The Mishnah, The Talmud, Jerusalem,
+							The Jerusalem Talmud
+						-
+				-
+					Sefer Yetzirah
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Jewish, Kabbalah, Sefer Yetzirah
+						-
+				-
+					The Zohar
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Jewish, Kabbalah, The Zohar
+						-
+				-
+					The New Testament
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Christian, Common, The New Testament
+						-
+				-
+					The Nicene Creed
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Christian, Common, Treatises, Creeds, The
+							Nicene Creed
+						-
+				-
+					The Didache
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Christian, Common, Treatises, Apostolic
+							Fathers, The Didache
+						-
+				-
+					The Ninety-Five Theses
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Christian, Specific, The Ninety-Five Theses
+						-
+				-
+					The Book of Mormon
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Christian, Specific, LDS, Book of Mormon
+						-
+				-
+					Commentary on the Book of Mormon
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Christian, Specific, LDS, Book of Mormon,
+							Mormon Commentary
+						-
+				-
+					The Testimony of the Three Witnesses
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Christian, Specific, LDS, Book of Mormon,
+							Testimony, Three
+						-
+				-
+					The Testimony of the Eight Witnesses
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Christian, Specific, LDS, Book of Mormon,
+							Testimony, Eight
+						-
+				-
+					The Testimony of the Prophet Joseph Smith
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Judeo-Christian, Specific, Christian, Specific, LDS, Book of Mormon,
+							Testimony, Joseph Smith
+						-
+				-
+					The Quran
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Islam, The Quran
+						-
+				-
+					The Kitab-i-Aqdas
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Islam, The Bahai Faith, The Kitab-i-Aqdas
+						-
+				-
+					The Kitab-i-Iqan
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Abrahamic,
+							Islam, The Bahai Faith, The Kitab-i-Iqan
+						-
+				-
+					The Guru Granth Sahib
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Monotheistic, Sikh, The Guru
+							Granth Sahib
+						-
+				-
+					The Rig Veda
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Panentheistic,
+							Dharmic, Vedic, Vedas, Rig Veda
+						-
+				-
+					The Yajur Veda
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Panentheistic,
+							Dharmic, Vedic, Vedas, Yajur Veda
+						-
+				-
+					The Sama Veda
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Panentheistic,
+							Dharmic, Vedic, Vedas, Sama Veda
+						-
+				-
+					The Atharva Veda
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Panentheistic,
+							Dharmic, Vedic, Vedas, Atharva Veda
+						-
+				-
+					The Ramayana
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Panentheistic,
+							Dharmic, Vedic, Smriti, Itihasa, Ramayana
+						-
+				-
+					The Mahabharata
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Panentheistic,
+							Dharmic, Vedic, Smriti, Itihasa, Mahabharata
+						-
+				-
+					The Yoga Sutras of Patanjali
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Panentheistic,
+							Dharmic, Vedic, Yoga, The Yoga Sutras of Patanjali
+						-
+				-
+					Dhammacakkappavattana Sutta
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Panentheistic,
+							Dharmic, Buddhist, Theravada, Suttas, Saṃyutta, Dhammacakkappavattana
+							Sutta
+						-
+				-
+					Dhammapada
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Panentheistic,
+							Dharmic, Buddhist, Theravada, Suttas, Khuddaka, Dhammapada
+						-
+				-
+					The Lotus Sutra
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Panentheistic,
+							Dharmic, Buddhist, Mahayana, Sutras, The Lotus Sutra
+						-
+				-
+					The Tao Te Ching
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Panentheistic,
+							Chinese, Taoism, Tao Te Ching
+						-
+				-
+					I Ching
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Panentheistic,
+							Chinese, Confucianism, Classics, I Ching
+						-
+				-
+					The Instructions of Shuruppak
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
+							Mesopotamian, The Instructions of Shuruppak
+						-
+				-
+					Kesh Temple Hymn
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
+							Mesopotamian, Kesh Temple Hymn
+						-
+				-
+					The Sumerian Kings List
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
+							Mesopotamian, The Sumerian Kings List
+						-
+				-
+					Enuma Elis
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
+							Mesopotamian, Enuma Elis
+						-
+				-
+					The Epic of Gilgamesh
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
+							Mesopotamian, The Epic of Gilgamesh
+						-
+				-
+					The Pyramid Texts
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
+							Kemetic, The Pyramid Texts
+						-
+				-
+					The Egyptian Book of the Dead
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
+							Kemetic, The Egyptian Book of the Dead
+						-
+				-
+					The Theogony
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
+							Hellenic, Hesiod, The Theogony
+						-
+				-
+					Works and Days
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
+							Hellenic, Hesiod, Works and Days
+						-
+				-
+					The Iliad
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
+							Hellenic, Homer, The Iliad
+						-
+				-
+					The Odyssey
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
+							Hellenic, Homer, The Odyssey
+						-
+				-
+					The Aeneid
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
+							Hellenic, Vergil, The Aeneid
+						-
+				-
+					Völuspá
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Classical,
+							Nordic, Poetic Edda, Völuspá
+						-
+				-
+					The Regius Poem
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Esotericism,
+							Orders, Freemasonry, The Regius Poem
+						-
+				-
+					Fama Fraternitatis
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Esotericism,
+							Orders, Rosicrucian, Fama Fraternitatis
+						-
+				-
+					Confessio Fraternitatis
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Esotericism,
+							Orders, Rosicrucian, Confessio Fraternitatis
+						-
+				-
+					The Chymical Wedding of Christian Rosenkreutz
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Esotericism,
+							Orders, Rosicrucian, The Chymical Wedding of Christian Rosenkreutz
+						-
+				-
+					The Sixth Book of Moses
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Esotericism,
+							Western, Individuals, Legendary, Moses, The Sixth Book of Moses
+						-
+				-
+					The Emerald Tablet of Hermes Trismegistus
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Esotericism,
+							Western, Individuals, Legendary, Hermes Trismegistus, The Emerald
+							Tablet
+						-
+				-
+					The Triangular Book of the Count of St. Germain
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Esotericism,
+							Western, Individuals, Legendary, St. Germain, Triangle Book
+						-
+				-
+					The Book of the Law
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Esotericism,
+							Western, Individuals, Aleister Crowley, The Book of the Law
+						-
+				-
+					Liber B vel Magi
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Esotericism,
+							Western, Individuals, Aleister Crowley, Texts, Liber B vel Magi
+						-
+				-
+					The Wiccan Rede
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Neopagan,
+							Wicca, The Wiccan Rede
+						-
+				-
+					The Charge of the Goddess
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Neopagan,
+							Wicca, Charges, The Charge of the Goddess
+						-
+				-
+					The Charge of the God
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Neopagan,
+							Wicca, Charges, The Charge of the God
+						-
+				-
+					The Gardnerian Book of Shadows
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Spiritual, Pagan, Neopagan,
+							Wicca, Book of Shadows, Gardnerian
+						-
+				-
+					The Tenets of Unitarian Universalism
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Humanist, General,, Liberal
+							Religion, Unitarian Universalism, Tenets
+						-
+				-
+					The Eighth Tenet of Unitarian Universalism
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Humanist, General,, Liberal
+							Religion, Unitarian Universalism, Tenet, Eighth Tenet
+						-
+				-
+					Humanist Manifesto I
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Humanist, Secular, General
+							Humanism, Humanist Manifesto, I
+						-
+				-
+					Humanist Manifesto II
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Humanist, Secular, General
+							Humanism, Humanist Manifesto, II
+						-
+				-
+					Humanist Manifesto III
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Humanist, Secular, General
+							Humanism, Humanist Manifesto, III
+						-
+				-
+					Amsterdam Declaration 1952
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Humanist, Secular, General
+							Humanism, Amsterdam Declaration, 1952
+						-
+				-
+					Amsterdam Declaration 2002
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Humanist, Secular, General
+							Humanism, Amsterdam Declaration, 2002
+						-
+				-
+					A Secular Humanist Declaration
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Humanist, Secular, General
+							Humanism, A Secular Humanist Declaration
+						-
+				-
+					The Founding Address of the American Ethical Union
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Humanist, Secular, General
+							Ethical Culture, American Ethical Union, Founding Address
+						-
+				-
+					The World Pantheist Movement Statement of Principles of Scientific Pantheism
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Humanist, Secular, General
+							Pantheism, WPM Statement
+						-
+				-
+					The Vision Statement of the Society for Humanistic Judaism
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Scripture, Humanist, Secular, Specific,
+							Judaism, SHJ, Vision Statement
+						-
+				-
+					The Charter of the United Nations
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Law, Global, The United
+							Nations, Charter
+						-
+				-
+					The Universal Declaration of Human Rights
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Law, Global, The United
+							Nations, Universal Declaration of Human Rights
+						-
+				-
+					The Declaration of Independence
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Law, National, Active, North
+							America, USA, Organic Laws, Pre-Constitutional, Declaration of
+							Independence
+						-
+				-
+					The Articles of Confederation
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Law, National, Active, North
+							America, USA, Organic Laws, Pre-Constitutional, Articles of
+							Confederation
+						-
+				-
+					The Ordinance of 1787 for The Northwest Territorial Government
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Law, National, Active, North
+							America, USA, Organic Laws, Pre-Constitutional, The Ordinance of 1787
+						-
+				-
+					The Constitution of USA
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Law, National, Active, North
+							America, USA, Organic Laws, Constitution
+						-
+				-
+					Magna Carta
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Law, National, Active, Europe,
+							Magna Carta
+						-
+				-
+					The Declaration of Independence of the State of Israel
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Law, National, Active, Asia,
+							Israel, Declaration of Independence
+						-
+				-
+					The Code of Hammurabi
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Law, Historical, Ancient, Asia,
+							Babylon, Code of Hammurabi
+						-
+				-
+					The Twelve Tables
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Law, Historical, Ancient,
+							Europe, Rome, The Twelve Tables
+						-
+				-
+					Declaration of the Rights of Man and of the Citizen
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Law, Historical, Modern,
+							Europe, France, French Revolution, RIghts of Man
+						-
+				-
+					The Weimar Constitution
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Law, Historical, Modern,
+							Europe, Germany, Weimar Constitution
+						-
+				-
+					The Reichstag Fire Decree
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Law, Historical, Modern,
+							Europe, Germany, Weimar Constitution, Nazi Policy, The Reichstag Fire
+							Decree
+						-
+				-
+					The Enabling Act of 1933
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Law, Historical, Modern,
+							Europe, Germany, Weimar Constitution, Nazi Policy, The Enabling Act of
+							1933
+						-
+				-
+					South Carolina Ordinance of Secession
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Historical, Political, Wars,
+							American Wars, Civil War, Secession, South Carolina
+						-
+				-
+					The Emancipation Proclamation
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Historical, Political, Wars,
+							American Wars, Civil War, Orders, The Emancipation Proclamation
+						-
+				-
+					The Civil War Terms of Surrender
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Historical, Political, Wars,
+							American Wars, Civil War, Surrender, Terms
+						-
+				-
+					The Civil War Acceptance of Surrender
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Historical, Political, Wars,
+							American Wars, Civil War, Surrender, Acceptance
+						-
+				-
+					To My Peoples
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Historical, Political, Wars,
+							World Wars, WWI, To My Peoples
+						-
+				-
+					The Molotov-Ribbentrop Pact
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Historical, Political, Wars,
+							World Wars, WWII, Official Documents, International, The
+							Molotov-Ribbentrop pact
+						-
+				-
+					The Japanese Instrument of Surrender
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Historical, Political, Wars,
+							World Wars, WWII, Official Documents, International, The Japanese
+							Instrument of Surrender
+						-
+				-
+					The Szilard Petition
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Historical, Political, Wars,
+							World Wars, WWII, Official Documents, Domestic, The Szilard Petition
+						-
+				-
+					Anne Frank - The Diary of a Young Girl
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Historical, Political, Wars,
+							World Wars, WWII, Accounts, Anne Frank, The Diary of a Young Girl
+						-
+				-
+					The Balfour Declaration
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Historical, Political,
+							Correspondence, Diplomacy, The Balfour Declaration
+						-
+				-
+					The Rosetta Stone
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Historical, Archeological,
+							Language, The Rosetta Stone
+						-
+				-
+					The Georgia Guidestones
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Records, Historical, Archeological,
+							Polemic, The Georgia Guidestones
+						-
+				-
+					The Republic
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Discourse, Philosophy, Ancient, Greek,
+							Plato, The Republic
+						-
+				-
+					The Meditations
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Discourse, Philosophy, Ancient, Greek,
+							Marcus Aurelius, The Meditations
+						-
+				-
+					Ethics
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Discourse, Philosophy, Modern,
+							Metaphysics, Spinoza, Ethics
+						-
+				-
+					On the Origin of Species
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Discourse, Science, Biology, Evolution,
+							On the Origin of Species
+						-
+				-
+					The Art of War
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Discourse, Politics, Military, Ancient,
+							Sun Tzu, The Art of War
+						-
+				-
+					The Communist Manifesto
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Discourse, Politics, Economics, The
+							Communist Manifesto
+						-
+				-
+					The Vegan News No. 1
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Discourse, Politics, Ethics, Veganism,
+							The Vegan News, No. 1
+						-
+				-
+					The Vegan News No. 2
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Discourse, Politics, Ethics, Veganism,
+							The Vegan News, No. 2
+						-
+				-
+					The Vegan News No. 3
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Discourse, Politics, Ethics, Veganism,
+							The Vegan News, No. 3
+						-
+				-
+					The Vegan News No. 4
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Discourse, Politics, Ethics, Veganism,
+							The Vegan News, No. 4
+						-
+				-
+					The Vegan No. 5
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Discourse, Politics, Ethics, Veganism,
+							The Vegan News, No. 5
+						-
+				-
+					The Veganism Definition
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Discourse, Politics, Ethics, Veganism,
+							The Veganism Definition
+						-
+				-
+					Einstein's Letter on God
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Discourse, Religious, Debate, Einstein's
+							Letter on God
+						-
+				-
+					The Divine Comedy
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Expressive, Theistic, Religious,
+							Western, The Divine Comedy
+						-
+				-
+					Paradise Lost
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Expressive, Theistic, Religious,
+							Western, Paradise Lost
+						-
+				-
+					Journey to the West
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Expressive, Theistic, Religious,
+							Eastern, Journey to the West
+						-
+				-
+					Beowulf
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Expressive, Theistic, Mythical,
+							Midieval, Beowulf
+						-
+				-
+					Nightmare Number Three
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Expressive, Secular, Short, Poetry,
+							Stephen Vincent Benet, Nightmare Number Three
+						-
+				-
+					The Call of Cthulhu
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Expressive, Secular, Short, Stories,
+							Horror, H.P. Lovecraft, The Call of Cthulhu
+						-
+				-
+					The Star Spangled Banner
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Expressive, Secular, Short, Songs,
+							National, American, The Star Spangled Banner
+						-
+				-
+					The Anacreontic Song
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Expressive, Secular, Short, Songs,
+							National, American, The Star Spangled Banner, The Anacreontic Song
+						-
+				-
+					The Complete Works of William Shakespeare
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Expressive, Secular, Long, Theater,
+							Shakespeare, The Complete Works
+						-
+				-
+					Crime and Punishment
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Texts, Expressive, Secular, Long, Novels,
+							Dostoevsky, Crime and Punishment
+						-
+				-
+					The Noahide Laws
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Resources, Reference, Scripture, Abrahamic,
+							Commandments, The Noahide Laws
+						-
+				-
+					The 613 Commandments
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Resources, Reference, Scripture, Abrahamic,
+							Commandments, The 613 Commandments
+						-
+				-
+					Hare Krishna Mantra
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Resources, Reference, Scripture, Dharmic, Hare
+							Krishna Mantra
+						-
+				-
+					Element Property Reference
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Resources, Reference, Science, Chemistry,
+							Element Property Reference
+						-
+				-
+					One Library Archive References
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Resources, Notes, Archives, One Library Archive
+							References
+						-
+				-
+					Jewish Scripture Commentary
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Resources, Notes, Contents, Scripture, Jewish
+						-
+				-
+					Christian Scripture Commentary
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Resources, Notes, Contents, Scripture,
+							Christian
+						-
+				-
+					Muslim Scripture Commentary
+				-
+					-
+						Path
+					-
+						-
+							Philosophy, Literature, Resources, Notes, Contents, Scripture, Muslim
+						-
+				-
+					TEDAgame - Piano Sounds
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Audio, Sound Effects, Instruments, Piano,
+							TEDAgame
+						-
+				-
+					arioke - Kalimba Sounds
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Audio, Sound Effects, Instruments, Kalimba,
+							arioke
+						-
+				-
+					Vivaldi - Spring
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Audio, Music, Classical, Vivaldi, Spring
+						-
+				-
+					Beethoven's Symphony No.5 in C Minor - Karajan
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Audio, Music, Classical, Beethoven, 5th
+						-
+				-
+					Ode to Joy
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Audio, Music, Classical, Beethoven, Ode to Joy
+						-
+				-
+					1812 Overture
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Audio, Music, Classical, Tchaikovsky, 1812
+							Overture
+						-
+				-
+					Ave Maria
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Audio, Music, Classical, Schubert, Ave Maria
+						-
+				-
+					Ride of the Valkyries
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Audio, Music, Classical, Wager, Ride of the
+							Valkyries
+						-
+				-
+					Mars the Bringer of War
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Audio, Music, Classical, Mars the bringer of War
+						-
+				-
+					Jupiter Bringer of Jolity
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Audio, Music, Classical, Jupiter the Bringer of
+							Jolity
+						-
+				-
+					Hava Nagila
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Audio, Music, Folk, Jewish, Hava Nagila
+						-
+				-
+					The Garden of Earthly Delights
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Bosch, The Garden of Earthly Delights
+						-
+				-
+					The Birth of Venus
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Botticelli, The Birth of Venus
+						-
+				-
+					The Tower of Babel
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Bruegel, The Tower of Babel
+						-
+				-
+					Christ in Limbo
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Brueghel, Christ in Limbo
+						-
+				-
+					Madonna in a Floral Wreath
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Brueghel, Madonna in a Floral Wreath
+						-
+				-
+					Apotheosis of Washington
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Brumidi, Apotheosis of Washington
+						-
+				-
+					The Fallen Angel
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Cabanel, The Fallen Angel
+						-
+				-
+					The Entombment of Christ
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Caravaggio, The Entombment of Christ
+						-
+				-
+					God the Father
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Cima, God the Father
+						-
+				-
+					Course of Empire - Consummation
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Cole, Course of Empire, Consummation
+						-
+				-
+					Course of Empire - Destruction
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Cole, Course of Empire, Destruction
+						-
+				-
+					Mona Lisa
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Da Vinci, Paintings, Mona Lisa
+						-
+				-
+					Madonna of the Carnation
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Da Vinci, Paintings, Christian, Madonna of the Carnation
+						-
+				-
+					The Baptism of Christ
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Da Vinci, Paintings, Christian, The Baptism of Christ
+						-
+				-
+					Salvator Mundi
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Da Vinci, Paintings, Christian, Salvator Mundi
+						-
+				-
+					Last Supper
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Da Vinci, Paintings, Christian, Last Supper
+						-
+				-
+					Vitruvian Man
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Da Vinci, Sketches, Vitruvian Man
+						-
+				-
+					Napoleon Crossing the Alps
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, David, Napoleon Crossing the Alps
+						-
+				-
+					Oath of the Horatii
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, David, Oath of the Horatii
+						-
+				-
+					The Death of Marat
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, David, The Death of Marat
+						-
+				-
+					The Death of Socrates
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, David, The Death of Socrates
+						-
+				-
+					Liberty Leading the People
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Delacroix, Liberty Leading the People
+						-
+				-
+					Jacob Wrestling with the Angel
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Dore, Jacob Wrestling with the Angel
+						-
+				-
+					Michael Casts out the Fallen Angels
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Dore, Michael Casts out the Fallen Angels
+						-
+				-
+					Moses Breaks the Tablets of the Law
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Dore, Moses Breaks the Tablets of the Law
+						-
+				-
+					Paradiso Canto 31
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Dore, Paradiso Canto 31
+						-
+				-
+					The Triumph of Christianity Over Paganism
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Dore, The Triumph of Christianity Over Paganism
+						-
+				-
+					The Swing
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Fragonard, The Swing
+						-
+				-
+					Wanderer Above the Sea of Fog
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Friedrich, Wanderer Above the Sea of Fog
+						-
+				-
+					Judith Slaying Holofernes
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Gentileschi, Judith Slaying Holofernes
+						-
+				-
+					The Raft of the Medusa
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Géricault, The Raft of the Medusa
+						-
+				-
+					Pollice Verso
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Gérôme, Pollice Verso
+						-
+				-
+					Jews Praying in the Synagogue on Yom Kippur
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Gottlieb, Jews Praying in the Synagogue on Yom Kippur
+						-
+				-
+					El Coloso
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Goya, El Coloso
+						-
+				-
+					Saturn Devouring His Son
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Goya, Saturn Devouring His Son
+						-
+				-
+					Seige of Jerusalem
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Hayez, Seige of Jerusalem
+						-
+				-
+					King David Playing the Harp
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Honthorst, King David Playing the Harp
+						-
+				-
+					Washington Crossing the Delaware
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Leutze, Washington Crossing the Delaware
+						-
+				-
+					Stańczyk
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Matejko, Stańczyk
+						-
+				-
+					Creation of Adam
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Michelangelo, Creation of Adam 
+						-
+				-
+					School of Athens
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Raphael, School of Athens
+						-
+				-
+					Sistine Madonna
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Raphael, Sistine Madonna
+						-
+				-
+					Transfiguration
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Raphael, Transfiguration
+						-
+				-
+					Moses Breaking the Ten Commandments
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Rembrandt, Moses Breaking the Ten Commandments
+						-
+				-
+					Massacre of the Innocents
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Rubens, Massacre of the Innocents
+						-
+				-
+					Saturn
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Rubens, Saturn
+						-
+				-
+					The Garden of Eden with the Fall of Man
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Rubens, The Garden of Eden with the Fall of Man
+						-
+				-
+					Declaration of Independence
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Trumbull, Declaration of Independence
+						-
+				-
+					Las Meninas
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Velázquez, Las Meninas
+						-
+				-
+					Girl with a Pearl Earing
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Vermeer, Girl with a Pearl Earing
+						-
+				-
+					Lady of Shallot
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western,
+							Classical, Waterhouse, Lady of Shallot
+						-
+				-
+					The Persistence of Memory
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western, Modern,
+							Dali, The Persistence of Memory
+						-
+				-
+					The Hallucinogenic Toreador
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western, Modern,
+							Dali, The Hallucinogenic Toreador
+						-
+				-
+					Galatea of the Spheres
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western, Modern,
+							Dali, Galatea of the Spheres
+						-
+				-
+					Nighthawks
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western, Modern,
+							Hooper, Nighthawks
+						-
+				-
+					Munch
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western, Modern,
+							Munch, The Scream
+						-
+				-
+					Van Gogh
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western, Modern,
+							Renoir, Bal du Moulin de la Galette
+						-
+				-
+					Cafe at Night
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western, Modern,
+							Van Gogh, Cafe at Night
+						-
+				-
+					Self-Portrait
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western, Modern,
+							Van Gogh, Self-Portrait
+						-
+				-
+					Starry Night
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Western, Modern,
+							Van Gogh, Starry Night
+						-
+				-
+					The Great Wave Off Kanagawa
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Eastern, Japanese,
+							Hokusai, The Great Wave off Kanagawa
+						-
+				-
+					Takiyasha the Witch and the Skeleton Spectre
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Illustrations, Eastern, Japanese,
+							Kuniyoshi, Takiyasha and the Skeleton Spectre
+						-
+				-
+					Raising the Flag on Iwo Jima
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Photos, Humanitarian, War,
+							Military, Raising the Flag on Iwo Jima
+						-
+				-
+					Bombing of Nagasaki
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Photos, Humanitarian, War,
+							Military, Bombing of Nagasaki
+						-
+				-
+					Auschwitz
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Photos, Humanitarian, War,
+							Persecution, Holocaust, Camps, Auschwitz
+						-
+				-
+					Holocaust - Abduction
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Photos, Humanitarian, War,
+							Persecution, Holocaust, Victims, Abduction
+						-
+				-
+					Holocaust - Imprisonment
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Photos, Humanitarian, War,
+							Persecution, Holocaust, Victims, Imprisonment
+						-
+				-
+					Holocaust - Starvation
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Photos, Humanitarian, War,
+							Persecution, Holocaust, Victims, Starvation
+						-
+				-
+					Holocaust - Genocide
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Photos, Humanitarian, War,
+							Persecution, Holocaust, Victims, Genocide
+						-
+				-
+					Self-Immolation of Thich Quang Duc
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Photos, Humanitarian, Protest,
+							Self-Immolation of Thich Quang Duc
+						-
+				-
+					Tank Man
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Photos, Humanitarian, Protest,
+							Tank Man
+						-
+				-
+					Lunch Atop a Skyscraper
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Photos, Life, Humanistic, Lunch
+							Atop a Skyscraper
+						-
+				-
+					Hindenburg Disaster
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Photos, Life, Tragedy, Hindenburg
+							Disaster
+						-
+				-
+					Earthrise
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Photos, Milestone, Astronautics,
+							Earthrise
+						-
+				-
+					Buzz Aldrin on the Moon
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Photos, Milestone, Astronautics,
+							Buzz Aldrin on the Moon
+						-
+				-
+					Pale Blue Dot
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Images, Photos, Milestone, Astronautics,
+							Pale Blue Dot
+						-
+				-
+					Steamboat Willie
+				-
+					-
+						Path
+					-
+						-
+							Wonders, Assets, Art, Visual, Video, Animation, Steamboat Willie
+						-

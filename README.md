@@ -29,11 +29,11 @@ and [commentary on the contents of the Philosophy section](https://github.com/On
 All of the written documents in the library have been mapped to the ONE and ONE+ text formats,
 which is where the One Library gets its name from.
 
-[ONE](https://github.com/Kaeon-United/Kaeon-United/blob/main/Kaeon%20United/2%20-%20Wonders/1%20-%20Documentation/1%20-%20Guides/1%20-%20ONE/README.md)
+[ONE](https://github.com/Telos-Project/ONE)
 uses minus signs and tab indentation to separate text into a hierarchy of "blocks" without relying
 on any escape characters.
 
-[ONE+](https://github.com/Kaeon-United/Kaeon-United/blob/main/Kaeon%20United/2%20-%20Wonders/1%20-%20Documentation/1%20-%20Guides/1%20-%20ONE/1%20-%20ONE%2B/README.md)
+[ONE+](https://github.com/Telos-Project/ONE?tab=readme-ov-file#one-1)
 is a superset of ONE which provides more ways to encode text blocks, and is thus easier to write
 manually.
 

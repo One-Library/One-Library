@@ -96,7 +96,7 @@ extent regarding the Prophets, as they are directly tied to Jesus in Christian t
 <h2 align="center"><a href="https://raw.githubusercontent.com/One-Library/One-Library/main/The%20One%20Library/1%20-%20Philosophy/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Monotheistic/1%20-%20Abrahamic/1%20-%20Judeo-Christian/2%20-%20Specific/1%20-%20Jewish/1%20-%20The%20Mishnah/The%20Mishnah.one">3: The Mishnah</a></h2>
 
 <p align="center">
-	<img src="https://www.emanuelhouston.org/wp-content/uploads/2021/08/Talmud.jpg" height="300px"/>
+	<img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Babylonian_Talmud%2C_Seder_Zera%27im.jpg" height="300px"/>
 </p>
 
 The Mishnah, also known as the Oral Torah, is a compilation of commentary on the Torah itself,

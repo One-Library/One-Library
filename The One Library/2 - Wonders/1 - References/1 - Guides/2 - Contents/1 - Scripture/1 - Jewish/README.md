@@ -1,6 +1,6 @@
 <h1 align="center">Jewish Scripture Commentary</h1>
 
-<h2 align="center"><a href="https://raw.githubusercontent.com/One-Library/One-Library/main/The%20One%20Library/1%20-%20Philosophy/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Monotheistic/1%20-%20Abrahamic/1%20-%20Judeo-Christian/1%20-%20Common/1%20-%20The%20Tanakh/1%20-%20The%20Torah/The%20Torah.one">1: The Torah</a></h2>
+<h2 align="center"><a href="https://github.com/One-Library/One-Library/blob/main/The%20One%20Library/1%20-%20Philosophy/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Monotheistic/1%20-%20Abrahamic/1%20-%20Judeo-Christian/1%20-%20Common/1%20-%20The%20Tanakh/1%20-%20The%20Torah/The%20Torah.one">1: The Torah</a></h2>
 
 <p align="center">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Torah_Hebraica.png" height="300px"/>
@@ -49,7 +49,7 @@ briefly lost faith in God during the wandering, he was granted permission to see
 before dying on the summit of Mount Nebo.
 
 The commandments given by God throughout the Torah, which form the framework for the Jewish
-religion, were later codified into [613 distinct commandments](https://github.com/One-Library/One-Library/blob/main/The%20One%20Library/1%20-%20Philosophy/1%20-%20Literature/2%20-%20Resources/1%20-%20References/1%20-%20Scripture/1%20-%20Monotheistic/1%20-%20Abrahamic/1%20-%20Commandments/2%20-%20The%20613%20Commandments/The%20613%20Commandments.one)
+religion, were later codified into [613 distinct commandments](https://github.com/One-Library/One-Library/blob/main/The%20One%20Library/1%20-%20Philosophy/1%20-%20Literature/2%20-%20Resources/1%20-%20References/1%20-%20Scripture/1%20-%20Abrahamic/1%20-%20Commandments/2%20-%20The%20613%20Commandments/The%20613%20Commandments.one)
 by the Jewish scholar Maimonides.
 
 The Torah was originally written in biblical Hebrew, and modern copies are traditionally written by
@@ -111,7 +111,7 @@ although the Babylonian version is by far the more common one. While the Mishnah
 Hebrew, the Gemara is written in Aramaic. Modern printings of the Talmud also include later
 rabbinical commentary on the Gemara, most notably from the French Rabbinical scholar Rashi.
 
-<h2 align="center"><a href="https://raw.githubusercontent.com/One-Library/One-Library/main/The%20One%20Library/1%20-%20Philosophy/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Monotheistic/1%20-%20Abrahamic/1%20-%20Judeo-Christian/2%20-%20Specific/1%20-%20Jewish/2%20-%20The%20Zohar/The%20Zohar.one">4: The Zohar</a></h2>
+<h2 align="center"><a href="https://raw.githubusercontent.com/One-Library/One-Library/refs/heads/main/The%20One%20Library/1%20-%20Philosophy/1%20-%20Literature/1%20-%20Texts/1%20-%20Scripture/1%20-%20Monotheistic/1%20-%20Abrahamic/1%20-%20Judeo-Christian/2%20-%20Specific/1%20-%20Jewish/2%20-%20Kabbalah/2%20-%20The%20Zohar/The%20Zohar.one">4: The Zohar</a></h2>
 
 <p align="center">
 	<img src="https://jewishreviewofbooks.com/wp-content/uploads/2018/09/Fishbane2a.jpg" height="300px"/>
